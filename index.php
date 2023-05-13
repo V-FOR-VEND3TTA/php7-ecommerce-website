@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!--Bootstrap-->
-	<link rel="stylesheet" type="text/css" href="bootstrap-5.3.0-alpha3-dist/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
 	<!--Custom CSS-->
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 	<title>Anavrin</title>
