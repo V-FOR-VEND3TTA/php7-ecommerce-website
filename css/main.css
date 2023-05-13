@@ -6,6 +6,23 @@ body {
 	background-color: #8C8383;
 }
 
-.dropdown-toggle {
+/* Needs to break out of its borders and create a rectangle that overlaps the dropdown button
+#text {
+	background-color: #000000;
+	color: #fff;
 	border: none;
 }
+*/
+
+#background-image {
+	background-image: url(../images/work-background.jpg);
+}
+
+#image-1 {
+	background-image: url(../images/samsung-background.jpg);
+}
+
+#image-2 {
+	background-image: url(../images/samsung-background.jpg);
+}
+
